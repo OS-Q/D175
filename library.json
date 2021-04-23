@@ -1,12 +1,12 @@
 {
   "name": "LMICPP",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "keywords": "Lora",
   "description": "Modified Arduino port of the LMIC (LoraWAN-in-C, formerly LoraMAC-in-C) framework provided by IBM. Changed to C++ format.",
   "frameworks": ["arduino"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/OS-Q/T11A.git"
+    "url": "https://github.com/OS-Q/D175.git"
   },
   "examples": [
     {
